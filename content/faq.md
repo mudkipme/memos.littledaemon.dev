@@ -15,7 +15,7 @@ Later I discovered [✍️memos](https://github.com/usememos/memos) from [Awesom
 
 So here it is **Moe Memos**. It's an mobile app to capture thoughts and ideas. It has a minimal and delightful design and feels native to your device.
 
-It's [open source](/open-source/) and available for free on [App Store](https://apps.apple.com/app/moe-memos/id1643902185), [F-Droid](https://f-droid.org/packages/me.mudkip.moememos/) and [Google Play](https://play.google.com/store/apps/details?id=me.mudkip.moememos).
+It's [open source](https://github.com/mudkipme?tab=repositories&q=moe+memos) and available for free on [App Store](https://apps.apple.com/app/moe-memos/id1643902185), [F-Droid](https://f-droid.org/packages/me.mudkip.moememos/) and [Google Play](https://play.google.com/store/apps/details?id=me.mudkip.moememos).
 
 > Moe (萌え) refers to cute, adorable and inspiring.
 

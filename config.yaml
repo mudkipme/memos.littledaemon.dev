@@ -1,4 +1,4 @@
-baseURL: https://memos.moe/
+baseURL: https://memos.littledaemon.dev/
 languageCode: en-US
 title: Moe Memos
 theme: PaperMod
@@ -21,4 +21,4 @@ params:
   - name: Mastodon
     url: https://fosstodon.org/@moememos
   - name: Email
-    url: mailto:memos@memos.moe
+    url: mailto:memos@littledaemon.dev
