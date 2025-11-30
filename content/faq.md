@@ -27,7 +27,7 @@ For computer nerds like me, privacy advocates and whoever already have an open s
 
 ### Supported Memos server versions
 
-Current Moe Memos version supports Memos 0.21.0 and 0.25.0. Memos updates may introduce breaking API changes. If you are using a version higher than 0.25.0, it is recommended to use [Mortis](https://github.com/mudkipme/mortis) to convert the newer Memos API to the Memos 0.21.0 API and re-login in Moe Memos.
+Current Moe Memos version supports Memos 0.21.0 and 0.25.3. Memos updates may introduce breaking API changes. If you are using a version higher than 0.25.3, it is recommended to use [Mortis](https://github.com/mudkipme/mortis) to convert the newer Memos API to the Memos 0.21.0 API and re-login in Moe Memos.
 
 ### Uploading images failed with "413 Entity Too Large" message
 
